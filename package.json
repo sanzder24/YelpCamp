@@ -1,0 +1,15 @@
+{
+  "name": "camp",
+  "version": "1.0.0",
+  "description": "Yelpcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hussain",
+  "license": "ISC"
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
