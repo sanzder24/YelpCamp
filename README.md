@@ -1,5 +1,9 @@
 # YelpCamp
 YelpCamp is a mini version of Yelp. This project is developed with Node.js Express and Mongo DB. Google API is used for location mapping. 
+Functionality implemented include,
+  * Search Bar
+  * Spam Post Handling
+  * Content scope with authentication
 
 ### Campground Page
 <img src="https://user-images.githubusercontent.com/54637394/87968033-c99e0f80-ca8d-11ea-901c-c5bf9a103b6e.JPG" width="50%" >
